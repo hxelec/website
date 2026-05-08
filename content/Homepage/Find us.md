@@ -1,2 +1,1 @@
-# Find us #
 [YouTube](https://www.youtube.com/@h1tec) | [Instagram](https://www.instagram.com/_h1tec/) | [TikTok](https://www.tiktok.com/@_h1tec) | [X](https://x.com/hxtec32) | [LinkedIn](https://au.linkedin.com/in/rain-haase-473277334) | [GitHub](https://github.com/hxelec?tab=repositories) | [PayPal](https://www.paypal.com/paypalme/h1tec) 
