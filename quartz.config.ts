@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: {
           name: "Roboto",
-          weights: [1000, 1000],
+          weights: [500, 500],
           includeItalic: true,
         },
         body: "Source Sans Pro",
