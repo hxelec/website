@@ -9,14 +9,14 @@
 }
 
 @media screen and (max-width: 800px) {
-  footer ul {
+  #quartz-body footer ul {
     display: flex;
     flex-wrap: wrap;
-    gap: 0rem 1rem; /* row gap, column gap */
+    gap: 0.15rem 0.8rem;
     padding-left: 0;
   }
 
-  footer ul li {
+  #quartz-body footer ul li {
     margin: 0;
   }
 }
