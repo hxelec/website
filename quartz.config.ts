@@ -16,14 +16,18 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "haaseindustries.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: {
+          name: "Roboto",
+          weights: [1000, 1000],
+          includeItalic: true,
+        },
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
