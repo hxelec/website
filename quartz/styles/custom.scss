@@ -12,6 +12,11 @@
   footer ul {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
+    gap: 0.4rem 1rem; /* row gap, column gap */
+    padding-left: 0;
+  }
+
+  footer ul li {
+    margin: 0;
   }
 }
