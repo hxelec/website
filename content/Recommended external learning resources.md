@@ -1,2 +1,2 @@
-*for our own reference too ;)*
+*for our own reference too ;)*  
 [ST wiki](https://wiki.st.com/stm32mcu/wiki/Main_Page) | [Adafruit Learning System](https://learn.adafruit.com) | [TI reference designs](https://www.ti.com/reference-designs) | [TI video library](https://www.ti.com/video/library.html) | [Espressif Docs](https://documentation.espressif.com/en/home) | [Altium PCB Design Learning Hub](https://resources.altium.com/pcb-design?page=1) | [Altium Podcast](https://resources.altium.com/podcast) | [i2c_jason](https://www.youtube.com/@i2c_jason) | [Predictable Designs](https://www.youtube.com/@predictabledesigns) 

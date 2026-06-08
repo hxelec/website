@@ -1,6 +1,6 @@
 Microcontrollers are widely applicable to most applications requiring real-time processing and low cost. We are most familiar with the ESP32 series of microcontrollers and Arduino IDE, and have 12+ videos on the topic; [here](https://www.youtube.com/watch?v=pNDzUEHkqHs) is a recent example before we shifted our focus to projects using more powerful MCUs, like the 8x17mm STM32H5 module covered towards the end of [this video](https://www.youtube.com/watch?v=EQ1ZQpfELaQ). 
 
-![[pcbexample.jpg]]
+![[pcbexample.webp]]
 *Example design: ESP32 home automation hub optimised for ultra-low power operation*
 
 To do:

@@ -1,6 +1,6 @@
 In [this video](https://www.youtube.com/watch?v=UUr-CJudg38), we showcased a high-density battery management system (BMS) in a 40x40mm form factor for a 3-cell [tabless 18650](https://www.youtube.com/watch?v=yfsgWKdlQEo) Li-ion battery pack using a [BQ77915](https://www.ti.com/lit/ds/symlink/bq77915.pdf?ts=1772557832985) and a pair of [highly efficient MOSFETs from Infineon](https://www.infineon.com/assets/row/public/documents/24/49/infineon-iqdh35n03lm5-datasheet-en.pdf?fileId=8ac78c8c8a44f57b018a456befa5020f), pictured below. It was able to maintain within safe temperatures during a ~50A discharge for more than 60 seconds. In [a following video](https://www.youtube.com/watch?v=pDYJ8d-5PCU), a '[360Wh/kg semi-solid state](https://www.alibaba.com/product-detail/Factory-Price-Solid-State-HvLi-Battery_1601390711844.html)' battery pack was tested and evaluated against its datasheet ratings, and we provided some commentary on the progress of solid-state battery technology.
 
-![[bmsx.png|345]]
+![[bmsx.webp|345]]
 *Example design: Battery protection system section of BMS X based on [BQ77915EVM-014](https://www.ti.com/tool/BQ77915EVM-014) reference design*
 
 A large portion of our battery knowledge is from [Battery Mooch](https://www.patreon.com/c/batterymooch/posts) and [Pajda](https://www.patreon.com/c/Pajda704/posts) on Patreon who we could highly recommend for anyone wanting to know the latest news on practical battery tech.
