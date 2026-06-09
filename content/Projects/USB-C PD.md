@@ -3,7 +3,9 @@ In [this video](https://www.youtube.com/watch?v=WiyAI1VHXDM), we showcased a tin
 ![[usbcdesign.webp|554]]
 *Example design: PD system section of BMS X based on [TIDA-050047](https://www.ti.com/tool/TIDA-050047) reference design*
 
-To do:
+***
+
+#### To do
 - make highly efficient 240W EPR battery system
 - make fully featured USB-C PD powerbanks with newer (and more expensive) technology than competing solutions, using casing materials that are most environmentally friendly based on a detailed analysis
 

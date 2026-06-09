@@ -3,6 +3,8 @@ Thus far, we have only made projects using brushed motors, like [this](https://w
 ![[allinone.webp|298]]
 *Example design: dual motor ESP32 robot control system for 4S LiHV battery*
 
-To do:
+***
+
+#### To do
 - make brushless gearmotors for small-to-medium- scale robot drive systems / joint systems
 - explore novel power transmission, suspension, and electronic speed control technologies

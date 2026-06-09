@@ -3,7 +3,9 @@ Microcontrollers are widely applicable to most applications requiring real-time 
 ![[pcbexample.webp]]
 *Example design: ESP32 home automation hub optimised for ultra-low power operation*
 
-To do:
+***
+
+#### To do
 - Complete more advanced STM32 projects with U3B5/C5 series, N6 series, and V8 series
 - Demonstrate deeper knowledge of internal MCU hardware within code
 - Expand into different MCUs such as RA series and CH32 series

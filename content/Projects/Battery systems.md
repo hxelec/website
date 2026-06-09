@@ -5,7 +5,9 @@ In [this video](https://www.youtube.com/watch?v=UUr-CJudg38), we showcased a hig
 
 A large portion of our battery knowledge is from [Battery Mooch](https://www.patreon.com/c/batterymooch/posts) and [Pajda](https://www.patreon.com/c/Pajda704/posts) on Patreon who we could highly recommend for anyone wanting to know the latest news on practical battery tech.
 
-To do:
+***
+
+#### To do
 - create a versatile, robust, and modular active balancing circuit
 - make an easy to use cylindrical battery recycling system which helps solve the issue of leftover nickel / copper chunks while keeping the steel plating intact / restoring it 
 - implement fuel gauges and programmable battery monitors with the newest battery cells using high nickel cathodes, silicon-composite anodes and/or modified voltage ranges
